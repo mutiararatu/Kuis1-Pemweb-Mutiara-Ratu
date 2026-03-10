@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman';
+    background-color: rgb(52, 44, 49);
+}
+
+.container{
+    width: 880px;
+    margin: auto;
+    background: pink;
+    padding: 20px;
+    border: 2px black;
+}
